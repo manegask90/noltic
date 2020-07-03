@@ -1,0 +1,25 @@
+.elementor-413 .elementor-element.elementor-element-71533e0{margin-top:120px;margin-bottom:60px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-b9b210e > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-41cb8a7 .elementor-heading-title{font-size:48px;line-height:58px;}.elementor-413 .elementor-element.elementor-element-41cb8a7 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-93ab3db{margin-top:0px;margin-bottom:120px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-21ffa8c.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-413 .elementor-element.elementor-element-21ffa8c > .elementor-element-populated{margin:120px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-1592aab > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-7f5ee9f{font-size:20px;line-height:30px;}.elementor-413 .elementor-element.elementor-element-7f5ee9f > .elementor-widget-container{margin:0px 0px 40px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-7361ce3 .elementor-button{font-size:18px;font-weight:bold;text-transform:uppercase;line-height:1em;fill:#1261E0;color:#1261E0;background-color:rgba(0, 0, 0, 0);border-style:solid;border-width:2px 2px 2px 2px;border-color:#2949E1;border-radius:0px 0px 0px 0px;padding:20px 60px 20px 60px;}.elementor-413 .elementor-element.elementor-element-7361ce3 .elementor-button:hover, .elementor-413 .elementor-element.elementor-element-7361ce3 .elementor-button:focus{color:#0E1524;background-color:#FFFFFF;border-color:#FFFFFF;}.elementor-413 .elementor-element.elementor-element-7361ce3 .elementor-button:hover svg, .elementor-413 .elementor-element.elementor-element-7361ce3 .elementor-button:focus svg{fill:#0E1524;}.elementor-413 .elementor-element.elementor-element-7361ce3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;background-color:rgba(0, 0, 0, 0);}.elementor-413 .elementor-element.elementor-element-7361ce3{width:auto;max-width:auto;}.elementor-413 .elementor-element.elementor-element-ab87dc8.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-413 .elementor-element.elementor-element-ab87dc8 > .elementor-element-populated{margin:120px 0px 0px 0px;padding:0px 0px 0px 0px;}@media(min-width:768px){.elementor-413 .elementor-element.elementor-element-c002f58{width:17%;}.elementor-413 .elementor-element.elementor-element-b9b210e{width:65.332%;}.elementor-413 .elementor-element.elementor-element-b9e4fb0{width:17%;}.elementor-413 .elementor-element.elementor-element-21ffa8c{width:17%;}.elementor-413 .elementor-element.elementor-element-1592aab{width:65.332%;}.elementor-413 .elementor-element.elementor-element-ab87dc8{width:17%;}}@media(max-width:767px){.elementor-413 .elementor-element.elementor-element-71533e0{margin-top:80px;margin-bottom:40px;padding:0px 5px 0px 5px;}.elementor-413 .elementor-element.elementor-element-41cb8a7 .elementor-heading-title{font-size:32px;line-height:38px;}.elementor-413 .elementor-element.elementor-element-93ab3db{margin-top:0px;margin-bottom:80px;padding:0px 5px 0px 5px;}.elementor-413 .elementor-element.elementor-element-1592aab > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-7f5ee9f{font-size:18px;}.elementor-413 .elementor-element.elementor-element-7f5ee9f > .elementor-widget-container{margin:0px 0px 20px 0px;padding:0px 0px 0px 0px;}.elementor-413 .elementor-element.elementor-element-7361ce3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}}/* Start custom CSS */.elementor-page-413 .container {
+    max-width: 100%;
+}
+
+.vacancy-content strong {
+    color: #FFFFFF;
+}
+
+.vacancy-content ul {
+    list-style: initial;
+    padding-left: 20px;
+    line-height: 30px;
+    margin-top: -60px;
+    margin-bottom: 60px;
+}
+
+.vacancy-content ul li {
+    display: list-item;
+    padding-top: 20px;
+}
+
+.wrapper .vacancy-content p
+{
+    margin-bottom: 60px;
+}/* End custom CSS */

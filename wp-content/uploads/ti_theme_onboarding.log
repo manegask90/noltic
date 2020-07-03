@@ -1,0 +1,30 @@
+[05/Jun/2020:11:35:50] (ℹ️): WordPress Instance Info:
+[05/Jun/2020:11:35:50] (ℹ️): Home URL : https://noltic.com
+[05/Jun/2020:11:35:50] (ℹ️): Site URL : https://noltic.com
+[05/Jun/2020:11:35:50] (ℹ️): WordPress Version : 5.4.1
+[05/Jun/2020:11:35:50] (ℹ️): Onboarding Version : 1.0.0
+[05/Jun/2020:11:35:50] (ℹ️): Multisite : No
+[05/Jun/2020:11:35:50] (ℹ️): Server Info : Apache/2.4.25 (Debian)
+[05/Jun/2020:11:35:50] (ℹ️): PHP Version : 7.4.6
+[05/Jun/2020:11:35:50] (ℹ️): HTTPS : Yes
+[05/Jun/2020:11:35:50] (ℹ️): PHP Max Execution Time : 60
+[05/Jun/2020:11:35:50] (ℹ️): PHP Max Input Vars : 2500
+[05/Jun/2020:11:35:50] (ℹ️): Max Upload Size : 10485760
+[05/Jun/2020:11:35:50] (ℹ️): Plugins:
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] The SEO Framework : v4.0.7 (The SEO Framework Team)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Autoptimize : v2.7.2 (Frank Goossens (futtta))
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Cloudflare : v3.4.1 (John Wineman, Furkan Yilmaz, Junade Ali (Cloudflare Team))
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.9 (Takayuki Miyoshi)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Cookie Notice : v1.3.2 (dFactory)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Crisp : v0.25 (Crisp)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Disable Emojis (GDPR friendly) : v1.7.2 (Ryan Hellyer)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Disable Gutenberg : v2.1 (Jeff Starr)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Display Posts : v3.0.2 (Bill Erickson)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Elementor Pro : v2.9.5 (Elementor.com)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Elementor : v2.9.11 (Elementor.com)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Essential Addons for Elementor : v4.0.1 (WPDeveloper)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Google Analytics Dashboard for WP (GADWP) : v6.0.2 (ExactMetrics)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] Imagify : v1.9.10 (WP Media)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] SVG Support : v2.3.18 (Benbodhi)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.25 (UpdraftPlus.Com, DavidAnderson)
+[05/Jun/2020:11:35:50] (ℹ️): [PLUGIN] WP Mail SMTP : v2.0.1 (WPForms)
